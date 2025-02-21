@@ -7,7 +7,7 @@ Web Developer
 I'm a passionate web developer that specializes in HTML, CSS, Javascript, and PHP. I create original and effective designs that take project deliverables into account by transforming design mockups into code. My meticulous attention to detail and ability to work under pressure ensures that projects are completed on schedule and under budget. I'm your man if you need technical assistance churning out vital stuff to share with the world. Please contact me if your company needs a competent team player.
 
 * 🌍  I'm based in Chonburi
-* 🖥️  See my portfolio at [supakorn21.github.io/portfolio/](http://supakorn21.github.io/portfolio/)
+* 🖥️  See my portfolio at [tsupakorn.com](https://tsupakorn.com)
 * ✉️  You can contact me at [supakorncharoen@gmail.com](mailto:supakorncharoen@gmail.com)
 * 🧠  I'm learning Shopify
 
