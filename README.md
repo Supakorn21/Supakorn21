@@ -4,7 +4,11 @@ Hi 👋 My name is Supakorn Charoen
 Web Developer
 -------------
 
-I'm a passionate web developer that specializes in HTML, CSS, Javascript, and PHP. I create original and effective designs that take project deliverables into account by transforming design mockups into code. My meticulous attention to detail and ability to work under pressure ensures that projects are completed on schedule and under budget. I'm your man if you need technical assistance churning out vital stuff to share with the world. Please contact me if your company needs a competent team player.
+Hi, I’m Supakorn Charoen! I’m a web developer who loves bringing ideas to life through websites. Whether it's working with HTML, CSS, JavaScript, or PHP, I enjoy transforming design concepts into functional and user-friendly websites.
+
+I take pride in making sure every detail is perfect and that projects are done on time and within budget. I believe a website should not only look great but also work smoothly.
+
+Outside of coding, I enjoy spending time with my family and exploring new hobbies. I’m always up for learning new things, which helps me stay creative and passionate about what I do. If you need a friendly, reliable web developer, I’d love to chat and see how we can work together!
 
 * 🌍  I'm based in Chonburi
 * 🖥️  See my portfolio at [tsupakorn.com](https://tsupakorn.com)
